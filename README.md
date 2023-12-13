@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![a_lovely_gif_of_kita](kita.gif)
 
 ## 🐴 About Me
 
