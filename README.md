@@ -34,4 +34,4 @@ Here are some ideas to get you started:
 
 - Though I'm not a professional programmer, I still love animations!
   - 老二刺螈啦
-  - Listen to my recent favourite anisong: [イントロダクション -- Poppin'Party](https://www.youtube.com/watch?v=JT_Jr1UP_AY)
+  - Listen to my recent favourite anisong: [イントロダクション -- Poppin'Party](https://www.youtube.com/watch?v=Zz3iJejwNuI)
