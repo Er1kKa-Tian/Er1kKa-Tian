@@ -21,12 +21,12 @@ Here are some ideas to get you started:
 
 - 🐇 I'm **Xiaotian Tian** (**田晓天** in Chinese).
   - Having said that, you are welcomed to call me **Er1kKa**!
-- 🖥 **I'm not professionally trained for programming! It's simply my interest.** (www我太菜了，努力学习中)
+- 🖥 **I'm not professionally trained for programming! It's simply my interest.**
 - 🏫 I'm pursuing a **MPhil in Economics at Oxford University** but now taking a **gap year** due to health concerns.
-  - Previously, I obtained my **BSc in Economics** at UCL and ranked 1st in my cohort (mostly by luck).
+  - Previously, I obtained my **BSc in Economics** at UCL.
 - 🌱 I’m currently self-learning Statistics and Data Science
   - Plenty of things on my list: web development, typescript, mojo, etc. 
-- 💬 Welcome to ask me anything about MPhil Econ at Ox or BSc Econ at UCL!
+- 💬 Welcome to ask me anything!
   - or just have a casual chat~
   - pro tip: avoid Economics when choosing your major..
 - 📫 How to reach me: er1kka.tian@outlook.com
@@ -34,5 +34,3 @@ Here are some ideas to get you started:
 ## 🐖 Fun stuff
 
 - Though I'm not a professional programmer, I still love animations!
-  - 老二刺螈啦
-  - Listen to my recent favourite anisong: [イントロダクション -- Poppin'Party](https://www.youtube.com/watch?v=Zz3iJejwNuI)
