@@ -25,10 +25,10 @@ Here are some ideas to get you started:
 - 🏫 I'm pursuing a **MPhil in Economics at Oxford University** but now taking a **gap year** due to health concerns.
   - Previously, I obtained my **BSc in Economics** at UCL.
 - 🌱 I’m currently self-learning Statistics and Data Science
-  - Plenty of things on my list: web development, typescript, mojo, etc. 
+  - Planned: convex optimisation, matrix calculus
 - 💬 Welcome to ask me anything!
   - or just have a casual chat~
-  - pro tip: avoid Economics when choosing your major..
+  - pro tip: avoid Economics when choosing your major.. If you really want to major in economics, a joint programme with Stats/Maths will be more desirable.
 - 📫 How to reach me: er1kka.tian@outlook.com
 
 ## 🐖 Fun stuff
