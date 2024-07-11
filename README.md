@@ -20,17 +20,16 @@ Here are some ideas to get you started:
 ## 🐴 About Me
 
 - 🐇 I'm **Xiaotian Tian** (**田晓天** in Chinese).
-  - Having said that, you are welcomed to call me **Er1kKa**!
-- 🖥 **I'm not professionally trained for programming! It's simply my interest.**
-- 🏫 I'm pursuing a **MPhil in Economics at Oxford University** but now taking a **gap year** due to health concerns.
-  - Previously, I obtained my **BSc in Economics** at UCL.
-- 🌱 I’m currently self-learning Statistics and Data Science
-  - Planned: convex optimisation, matrix calculus
+  - I also use the name **Er1kKa** informally.
+- 🖥 **I'm not professionally trained for coding! It's simply my interest.**
+- 🏫 I'm pursuing a **MPhil in Economics @ Oxford University** but now taking a **gap year** due to health concerns.
+  - Previously, I obtained my **BSc in Economics** from UCL.
+  - Not sure whether to try a DPill/PhD..
 - 💬 Welcome to ask me anything!
   - or just have a casual chat~
-  - pro tip: avoid Economics when choosing your major.. If you really want to major in economics, a joint programme with Stats/Maths will be more desirable.
 - 📫 How to reach me: er1kka.tian@outlook.com
+- ⚡More on my **personal web**: [https://er1kka-tian.github.io/](https://er1kka-tian.github.io/)
 
 ## 🐖 Fun stuff
 
-- Though I'm not a professional programmer, I still love animations!
+- Though I'm not a professional programmer, I still love anime!
