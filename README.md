@@ -22,8 +22,8 @@ Here are some ideas to get you started:
 - 🐇 I'm **Xiaotian Tian** (**田晓天** in Chinese).
   - I also use the name **Er1kKa** informally.
 - 🖥 **I'm not professionally trained for coding! It's simply my interest.**
-- 🏫 I'm pursuing a **MPhil in Economics @ Oxford University** but now taking a **gap year** due to health concerns.
-  - Previously, I obtained my **BSc in Economics** from UCL.
+- 🏫 I'm pursuing a **MPhil in Economics @ Oxford University**.
+  - Previously, I sobtained my **BSc in Economics** from UCL.
   - Not sure whether to try a DPill/PhD..
 - 💬 Welcome to ask me anything!
   - or just have a casual chat~
