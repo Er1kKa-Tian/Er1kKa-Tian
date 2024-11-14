@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![a nice pic to enjoy](Alrika_summer.jpg)
 
 ## 🐴 About Me
 
