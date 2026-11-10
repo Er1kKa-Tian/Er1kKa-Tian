@@ -1,33 +1,11 @@
-# 🌟 ~Welcome to the secret garden of Er1kKa! 🐇🌙 👋
+# 🌟 Welcome to the secret garden of Xiaotian!
 
-<!--
-**Er1kKa-Tian/Er1kKa-Tian** is a ✨ _sspecial_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 
 ## 🐴 About Me
 
-- 🐇 I'm **Xiaotian Tian** (**田晓天** in Chinese).
-  - I also use the name **Er1kKa** informally.
-- 🖥 **I'm not professionally trained for coding! It's simply my interest.**
-- 🏫 I'm pursuing a **MPhil in Economics @ Oxford University**.
-  - Previously, I sobtained my **BSc in Economics** from UCL.
-- 💬 Welcome to ask me anything!
-  - or just have a casual chat~
-- 📫 How to reach me: er1kka.tian@outlook.com
-- ⚡More on my **personal web**: [https://er1kka-tian.github.io/](https://er1kka-tian.github.io/)
-
-## 🐖 Fun stuff
-
-- Though I'm not a professional programmer, I still love anime!
+- I'm **Xiaotian Tian** (**田晓天** in Chinese).
+- **I'm not formally educated in CS, but I'm genuinely interested!**
+- I got my **MPhil in Economics from Oxford** and **BSc in Economics from UCL**.
+- Contact: xt.tian@outlook.com.
+- More on my **personal web**: [https://er1kka-tian.github.io/](https://er1kka-tian.github.io/).
